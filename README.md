@@ -33,9 +33,9 @@ The prediction page is shown as follow:
 conda activate AMPFinder  
 python main_window.py  
 Run the python file for AMP identification  
-  
+![image]
 
 Run the python file for AMP function identification  
- 
+![image]
 Contact us  
 Any questions about AMPFinder, please email to ystillen@gmail.com  

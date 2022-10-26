@@ -36,6 +36,6 @@ Run the python file for AMP identification
 ![image]
 
 Run the python file for AMP function identification  
-![image]
+![image](https://github.com/abcair/AMPFinder/blob/main/AMP_qt_fun_predict.jpg)
 Contact us  
 Any questions about AMPFinder, please email to ystillen@gmail.com  

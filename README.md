@@ -33,7 +33,7 @@ The prediction page is shown as follow:
 conda activate AMPFinder  
 python main_window.py  
 Run the python file for AMP identification  
-![image]
+![image](https://github.com/abcair/AMPFinder/blob/main/AMP_qt_identify.jpg)
 
 Run the python file for AMP function identification  
 ![image](https://github.com/abcair/AMPFinder/blob/main/AMP_qt_fun_predict.jpg)
